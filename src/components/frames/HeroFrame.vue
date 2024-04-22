@@ -24,6 +24,7 @@ import CustomButton from '../atoms/CustomButton.vue'
 <style scoped lang="scss">
 .frame {
   grid-template-columns: 7fr 5fr;
+  min-height: 500px;
   padding: 60px 0;
   display: grid;
 
@@ -31,7 +32,6 @@ import CustomButton from '../atoms/CustomButton.vue'
     background-color: var(--color-background-contrast);
     color: var(--color-text-contrast);
     flex-direction: column;
-    min-height: 500px;
     padding: 60px;
     display: flex;
     gap: 40px;
@@ -50,7 +50,6 @@ import CustomButton from '../atoms/CustomButton.vue'
   img {
     background-color: var(--color-background-image);
     object-fit: cover;
-    min-height: 100%;
     width: 100%;
   }
 }

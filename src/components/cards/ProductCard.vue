@@ -14,7 +14,7 @@ import { useRouter } from 'vue-router'
 import type { ProductType } from '@/data/types'
 
 const { push } = useRouter()
-const props = defineProps<ProductType>()
+const props = defineProps<Partial<ProductType>>()
 const src = computed(() => {
   return new URL(`../../assets/images/products/${props.image}`, import.meta.url).href
 })
@@ -44,6 +44,7 @@ function handleClick() {
   img {
     background-color: var(--color-background-image);
     object-fit: cover;
+    min-height: 200px;
     width: 100%;
   }
 
