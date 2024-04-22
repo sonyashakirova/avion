@@ -1,0 +1,27 @@
+[
+  {
+    "name": "linkedin",
+    "icon": "linkedin.svg",
+    "link": "https://www.linkedin.com/"
+  },
+  {
+    "name": "facebook",
+    "icon": "facebook.svg",
+    "link": "https://facebook.com/"
+  },
+  {
+    "name": "instagram",
+    "icon": "instagram.svg",
+    "link": "https://instagram.com/"
+  },
+  {
+    "name": "twitter",
+    "icon": "twitter.svg",
+    "link": "http://x.com/"
+  },
+  {
+    "name": "pinterest",
+    "icon": "pinterest.svg",
+    "link": "https://www.pinterest.com/"
+  }
+]

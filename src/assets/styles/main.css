@@ -1,0 +1,37 @@
+@import './fonts.css';
+@import './tokens.css';
+
+*,
+*::before,
+*::after {
+  margin: 0;
+  box-sizing: border-box;
+  font-weight: normal;
+}
+
+body {
+  color: var(--color-text);
+  background: var(--color-background);
+  font-family: var(--font-family-body);
+  font-size: var(--font-size-02);
+  overflow-x: hidden;
+  line-height: 1.6;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+@media (max-width: 600px) {
+  body {
+    font-size: var(--font-size-01);
+  }
+}
+
+.full-width {
+  position: relative;
+  margin-right: -50vw;
+  margin-left: -50vw;
+  width: 100vw;
+  right: 50%;
+  left: 50%;
+}

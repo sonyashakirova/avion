@@ -1,0 +1,37 @@
+:root {
+  --black: #12131a;
+  --white: #ffffff;
+  --light-gray: #f9f9f9;
+  --border-gray: #ebe8f4;
+  --border-dark: #cac6da;
+  --primary: #4e4d93;
+  --light-primary: #505977;
+  --dark-primary: #2a254b;
+  --mint: #83a9ac;
+}
+
+:root {
+  --color-background: var(--white);
+  --color-background-soft: var(--light-gray);
+  --color-background-contrast: var(--dark-primary);
+  --color-background-image: var(--mint);
+  --color-text: var(--dark-primary);
+  --color-text-soft: var(--light-primary);
+  --color-text-contrast: var(--white);
+
+  --font-family-body: 'Satoshi', 'Segoe UI', Arial, sans-serif;
+  --font-family-heading: 'Clash Display', 'Segoe UI', Arial, sans-serif;
+  --font-size-01: 14px;
+  --font-size-02: 16px;
+  --font-size-03: 18px;
+  --font-size-04: 20px;
+  --font-size-05: 24px;
+  --font-size-06: 32px;
+  --font-size-07: 36px;
+
+  --max-width-content: 1220px;
+  --max-width-mobile: 600px;
+  --page-padding-lg: 80px;
+  --page-padding-md: 40px;
+  --page-padding-sm: 24px;
+}

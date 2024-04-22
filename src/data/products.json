@@ -1,0 +1,194 @@
+[
+  {
+    "id": "1",
+    "name": "The Dandy chair",
+    "price": "250",
+    "category": "Chairs",
+    "short": "Beautiful and simple this is one for the classics",
+    "description": "A timeless design, with premium materials features as one of our most popular and iconic pieces. The dandy chair is perfect for any stylish living space with beech legs and lambskin leather upholstery.",
+    "features": ["Premium material", "Handmade upholstery", "Quality timeless classic"],
+    "dimensions": {
+      "Height": "110cm",
+      "Width": "75cm",
+      "Depth": "50cm"
+    },
+    "designer": "Robert Smith",
+    "image": "product-1.jpg"
+  },
+  {
+    "id": "2",
+    "name": "The Dandy chair",
+    "price": "250",
+    "category": "Ceramics",
+    "short": "Beautiful and simple this is one for the classics",
+    "description": "A timeless design, with premium materials features as one of our most popular and iconic pieces. The dandy chair is perfect for any stylish living space with beech legs and lambskin leather upholstery.",
+    "features": ["Premium material", "Handmade upholstery", "Quality timeless classic"],
+    "dimensions": {
+      "Height": "110cm",
+      "Width": "75cm",
+      "Depth": "50cm"
+    },
+    "designer": "Liam Gallagher",
+    "image": "product-2.jpg"
+  },
+  {
+    "id": "3",
+    "name": "The Dandy chair",
+    "price": "250",
+    "category": "Chairs",
+    "short": "Beautiful and simple this is one for the classics",
+    "description": "A timeless design, with premium materials features as one of our most popular and iconic pieces. The dandy chair is perfect for any stylish living space with beech legs and lambskin leather upholstery.",
+    "features": ["Premium material", "Handmade upholstery", "Quality timeless classic"],
+    "dimensions": {
+      "Height": "110cm",
+      "Width": "75cm",
+      "Depth": "50cm"
+    },
+    "designer": "Liam Gallagher",
+    "image": "product-3.jpg"
+  },
+  {
+    "id": "4",
+    "name": "The Dandy chair",
+    "price": "250",
+    "category": "Ceramics",
+    "short": "Beautiful and simple this is one for the classics",
+    "description": "A timeless design, with premium materials features as one of our most popular and iconic pieces. The dandy chair is perfect for any stylish living space with beech legs and lambskin leather upholstery.",
+    "features": ["Premium material", "Handmade upholstery", "Quality timeless classic"],
+    "dimensions": {
+      "Height": "110cm",
+      "Width": "75cm",
+      "Depth": "50cm"
+    },
+    "designer": "Thom Yorke",
+    "image": "product-4.jpg"
+  },
+  {
+    "id": "5",
+    "name": "The Dandy chair",
+    "price": "250",
+    "category": "Light fittings",
+    "short": "Beautiful and simple this is one for the classics",
+    "description": "A timeless design, with premium materials features as one of our most popular and iconic pieces. The dandy chair is perfect for any stylish living space with beech legs and lambskin leather upholstery.",
+    "features": ["Premium material", "Handmade upholstery", "Quality timeless classic"],
+    "dimensions": {
+      "Height": "110cm",
+      "Width": "75cm",
+      "Depth": "50cm"
+    },
+    "designer": "Robert Smith",
+    "image": "product-5.jpg"
+  },
+  {
+    "id": "6",
+    "name": "The Dandy chair",
+    "price": "250",
+    "category": "Chairs",
+    "short": "Beautiful and simple this is one for the classics",
+    "description": "A timeless design, with premium materials features as one of our most popular and iconic pieces. The dandy chair is perfect for any stylish living space with beech legs and lambskin leather upholstery.",
+    "features": ["Premium material", "Handmade upholstery", "Quality timeless classic"],
+    "dimensions": {
+      "Height": "110cm",
+      "Width": "75cm",
+      "Depth": "50cm"
+    },
+    "designer": "Biggie Smalls",
+    "image": "product-6.jpg"
+  },
+  {
+    "id": "7",
+    "name": "The Dandy chair",
+    "price": "250",
+    "category": "Light fittings",
+    "short": "Beautiful and simple this is one for the classics",
+    "description": "A timeless design, with premium materials features as one of our most popular and iconic pieces. The dandy chair is perfect for any stylish living space with beech legs and lambskin leather upholstery.",
+    "features": ["Premium material", "Handmade upholstery", "Quality timeless classic"],
+    "dimensions": {
+      "Height": "110cm",
+      "Width": "75cm",
+      "Depth": "50cm"
+    },
+    "designer": "Biggie Smalls",
+    "image": "product-7.jpg"
+  },
+  {
+    "id": "8",
+    "name": "The Dandy chair",
+    "price": "250",
+    "category": "Ceramics",
+    "short": "Beautiful and simple this is one for the classics",
+    "description": "A timeless design, with premium materials features as one of our most popular and iconic pieces. The dandy chair is perfect for any stylish living space with beech legs and lambskin leather upholstery.",
+    "features": ["Premium material", "Handmade upholstery", "Quality timeless classic"],
+    "dimensions": {
+      "Height": "110cm",
+      "Width": "75cm",
+      "Depth": "50cm"
+    },
+    "designer": "Biggie Smalls",
+    "image": "product-8.jpg"
+  },
+  {
+    "id": "9",
+    "name": "The Dandy chair",
+    "price": "250",
+    "category": "Chairs",
+    "short": "Beautiful and simple this is one for the classics",
+    "description": "A timeless design, with premium materials features as one of our most popular and iconic pieces. The dandy chair is perfect for any stylish living space with beech legs and lambskin leather upholstery.",
+    "features": ["Premium material", "Handmade upholstery", "Quality timeless classic"],
+    "dimensions": {
+      "Height": "110cm",
+      "Width": "75cm",
+      "Depth": "50cm"
+    },
+    "designer": "Biggie Smalls",
+    "image": "product-9.jpg"
+  },
+  {
+    "id": "10",
+    "name": "The Dandy chair",
+    "price": "250",
+    "category": "Chairs",
+    "short": "Beautiful and simple this is one for the classics",
+    "description": "A timeless design, with premium materials features as one of our most popular and iconic pieces. The dandy chair is perfect for any stylish living space with beech legs and lambskin leather upholstery.",
+    "features": ["Premium material", "Handmade upholstery", "Quality timeless classic"],
+    "dimensions": {
+      "Height": "110cm",
+      "Width": "75cm",
+      "Depth": "50cm"
+    },
+    "designer": "Robert Smith",
+    "image": "product-1.jpg"
+  },
+  {
+    "id": "11",
+    "name": "The Dandy chair",
+    "price": "250",
+    "category": "Ceramics",
+    "short": "Beautiful and simple this is one for the classics",
+    "description": "A timeless design, with premium materials features as one of our most popular and iconic pieces. The dandy chair is perfect for any stylish living space with beech legs and lambskin leather upholstery.",
+    "features": ["Premium material", "Handmade upholstery", "Quality timeless classic"],
+    "dimensions": {
+      "Height": "110cm",
+      "Width": "75cm",
+      "Depth": "50cm"
+    },
+    "designer": "Liam Gallagher",
+    "image": "product-2.jpg"
+  },
+  {
+    "id": "12",
+    "name": "The Dandy chair",
+    "price": "250",
+    "category": "Chairs",
+    "short": "Beautiful and simple this is one for the classics",
+    "description": "A timeless design, with premium materials features as one of our most popular and iconic pieces. The dandy chair is perfect for any stylish living space with beech legs and lambskin leather upholstery.",
+    "features": ["Premium material", "Handmade upholstery", "Quality timeless classic"],
+    "dimensions": {
+      "Height": "110cm",
+      "Width": "75cm",
+      "Depth": "50cm"
+    },
+    "designer": "Liam Gallagher",
+    "image": "product-3.jpg"
+  }
+]
